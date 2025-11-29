@@ -1,15 +1,15 @@
 detection_engineering:
   
-  metadata:
-    chapter: "2.4"
-    title: "Detection Engineering"
-    subtitle: "Alert Management & SIEM Strategies at Scale"
-    author: "Raghav Dinesh"
-    github: "github.com/raghavpoonia"
-    version: "1.0"
-    last_updated: "2024-11-29"
-    license: "MIT"
-    classification: "Security Operating Manual"
+    metadata:
+      chapter: "2.4"
+      title: "Detection Engineering"
+      subtitle: "Alert Management & SIEM Strategies at Scale"
+      author: "Raghav Dinesh"
+      github: "github.com/raghavpoonia"
+      version: "1.0"
+      last_updated: "2024-11-29"
+      license: "MIT"
+      classification: "Security Operating Manual"
     
     sections_in_this_document:
       - overview
