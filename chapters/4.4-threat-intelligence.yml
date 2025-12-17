@@ -1,7 +1,7 @@
 threat_intelligence_operations:
 
     metadata:
-      chapter: "2.5"
+      chapter: "4.4"
       title: "Threat Intelligence"
       subtitle: "Intelligence Programs, Enrichment & Operationalization at Scale"
       author: "Raghav Dinesh"
